@@ -32,4 +32,5 @@
 
 <p><a href="https://drive.google.com/drive/folders/1Uot_jluqqfir-RdftLyyFrW_78hdRNxi?usp=sharing">学習過程の動画</a></p>
 <p>100エピソードごとに保存した、学習過程の動画です。</p>
+<p>棒を倒してしまった時点で、動画は終了します。</p>
 <p>エピソードが進むごとに長い時間棒を立てた状態を維持できているのが視覚的に確認できます。</p>
