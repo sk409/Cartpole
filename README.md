@@ -3,7 +3,7 @@
 <h2>環境: Open AI Gym (CartPole)</h2>
 <br>
 
-<p>DQN, ExperienceReplayなどの技術を用いて1000エピソード学習させました。</p>
+<p>DQN, ExperienceReplayなどの技術を用いて約40分間学習させました。</p>
 <p>cartpole_main.pyを実行することで実際に学習を行い、学習途中のログを確認することができます。</p>
 <p>cartpole_test.pyと同じ階層にmodels/best_model/cartpole_model.pklとフォルダ・ファイルを作り実行することで、モデルを試すことができます。</p>
 <p>容量の関係でgithubにはmodelファイルは置いていませんが、以下のリンクからダウンロードしていただくことが可能です。</p>
