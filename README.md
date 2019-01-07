@@ -25,6 +25,7 @@
 <p>modelsフォルダの下に、best_modelフォルダを置きます。</p>
 <img src="images/image_2.png" width="900" height=700>
 <p>best_modelフォルダの下に、cartpole_model.pklを置きます。</p>
+<p>今回学習させたモデルは<a href="https://drive.google.com/file/d/1-XzOqSUWn3CORL8oC0w-9LVNN_k7JPGS/view?usp=sharing">こちら</a>からダウンロードしていただくことが可能です。</p>
 <img src="images/image_3.png" width="900" height=700>
 <p>最後に、cartpole_test.pyを実行します。</p>
 <img src="images/image_4.png" width="900" height=700>
