@@ -33,6 +33,6 @@ while True:
             action = np.argmax(model.predict(obs))
         obs, reward, done, info = env.step(action)
         if done:
-            print("{}Episode: {}steps".format(episode, t))
+            print("Episode-{}: {}steps".format(episode, t))
             break
     episode += 1
